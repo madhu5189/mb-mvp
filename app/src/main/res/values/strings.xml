@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multibhashi Assignment</string>
+    <string name="suggestion_headphones">Please use headphones for best experience</string>
+    <string name="mypref">myPref</string>
+    <string name="counter">counter</string>
+    <string name="type">type</string>
+    <string name="concept_name">conceptName</string>
+    <string name="pronunciation">pronunciation</string>
+    <string name="target_script">targetScript</string>
+    <string name="audio_url">audio_url</string>
+</resources>
